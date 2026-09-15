@@ -1,2 +1,2 @@
 # My_First_PWA
-A PWA of a calculator
+This is a HTML+JS calculator to be later deployed as a PWA
